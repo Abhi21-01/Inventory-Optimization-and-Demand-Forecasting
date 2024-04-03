@@ -26,4 +26,4 @@ The project repository includes the following files:
 ## Conclusion
 The "Inventory Management and Demand Prediction" project tackles real-world business problems using data analysis and machine learning techniques. The accuracy of 86% underscore the effectiveness of the developed Time Series Forecasting model in predicting product demand for upcoming quarters. The insights and methodologies presented in this project can serve as a reference for future forecasting projects in the domain of inventory management and demand prediction.
 
-For any inquiries or collaboration opportunities, please contact us at: patwarinavin9@gmail.com .
+For any inquiries or collaboration opportunities, please contact us at: singabhishek940@gmail.com .
